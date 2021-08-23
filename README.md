@@ -1,2 +1,2 @@
 # Vehical-Rental-System
-A system to allow people for renting vehicle
+A system to allow user for renting vehicle
