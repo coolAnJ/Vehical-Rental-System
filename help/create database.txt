@@ -1,0 +1,3 @@
+/*creating database of name 'mydatabase'*/
+CREATE database mydatabase
+collate utf8_unicode_ci;
